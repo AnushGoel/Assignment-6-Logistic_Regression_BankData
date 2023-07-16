@@ -9,9 +9,7 @@ Attribute information For bank dataset
    
    1 - age (numeric)
    
-   2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
-   
-                                       "blue-collar","self-employed","retired","technician","services") 
+   2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student", "blue collar","self-employed","retired","technician","services") 
   
    3 - marital : marital status (categorical: "married","divorced","single"; note: "divorced" means divorced or widowed)
    
